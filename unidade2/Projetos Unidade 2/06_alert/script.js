@@ -1,0 +1,2 @@
+alert ("LEIA TODO O TEXTO !")
+alert ("ISSO SERA SUPER NECESSARIO!")

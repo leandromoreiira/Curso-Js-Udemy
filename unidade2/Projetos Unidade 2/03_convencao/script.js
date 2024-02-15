@@ -1,0 +1,7 @@
+let nome3 = "teste"
+let $nome = "teste 2"
+let _nome = "teste 3"
+// let @nome = "teste 4"
+// let !nome = "teste 5"
+let Nome = "teste 6"
+let seuNome = "teste 7"

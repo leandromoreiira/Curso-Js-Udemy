@@ -1,0 +1,13 @@
+console.log(5>3 && 3==2)
+console.log(5>3 || 3==1)
+console.log( 3==3 && "leo"=="leo")
+console.log(!(!(true && true)))
+console.log(true && true)
+console.log(false||false)
+console.log(5<=1 || 4==4)
+console.log(3==3 && 5==4)
+console.log(3<3 && 5==5)
+console.log((3==3 && 4==4))
+
+console.log(9==9 && "leo"=="leo")
+console.log(!(!(!(!(!(!(!(true))))))))
